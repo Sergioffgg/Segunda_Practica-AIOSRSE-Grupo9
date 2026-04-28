@@ -1,4 +1,4 @@
-Para la construcción del Grafo de Conocimiento, se han escogido dos APIs REST, así como consultas SPARQL que nos permitirán enriquecer los datos.
+Para la construcción del Grafo de Conocimiento, se han escogido dos APIs REST, así como una fuente de consultas SPARQL que nos permitirán enriquecer los datos.
 
 **APIS REST:**
   1. OpenAlex
