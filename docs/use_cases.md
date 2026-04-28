@@ -1,1 +1,1 @@
-
+Nuestra aplicación está dirigida a investigadores, urbanistas, y ciudadanos sin experiencia profesional en jardinería. Les permitirá analizar la relación entre especies vegetales, técnicas de cultivo sostenible, éxito de huertos urbanos según el clima de la ciudad y las condiciones del espacio, y demás consultas de este estilo. El grafo permitirá responder preguntas como: ¿Qué plantas medicinales crecen mejor en techos verdes de ciudades con clima mediterráneo?
