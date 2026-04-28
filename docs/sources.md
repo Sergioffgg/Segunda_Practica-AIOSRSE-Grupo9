@@ -1,3 +1,5 @@
+Para la construcción del Grafo de Conocimiento, se han escogido dos APIs REST, así como consultas SPARQL que nos permitirán enriquecer los datos.
+
 **APIS REST:**
   1. OpenAlex
         Que se va a extraer: Metadatos de los 30 papers: Título, Abstract, DOI, citas y el texto de los Acknowledgements.
